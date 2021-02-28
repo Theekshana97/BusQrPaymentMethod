@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BankDetails</string>
+    <string name="location_to">Location To</string>
+    <string name="amount">Amount</string>
+    <string name="location_from">Location from</string>
+    <string name="pay">PAY</string>
+    <string name="add_card">Add Card</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button">Button</string>
+</resources>
